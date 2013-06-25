@@ -51,6 +51,6 @@ Endpoints:
     Private-Port:      27017
     Public-Port-Name:  DB_PROXY_PORT
 #Source-Url: https://github.com/wsun1/mongov2cart.git
-#Source-Url: git://github.com/wsun1/mongov2cart.git
+Source-Url: git://github.com/wsun1/mongov2cart.git
 Source-Md5: 1036fcf5f9db4d1052048944e2d34ff9
-Source-Url: file:///root/mongov2cart/
+#Source-Url: file:///root/mongov2cart/
