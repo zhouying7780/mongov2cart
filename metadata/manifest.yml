@@ -15,6 +15,7 @@ Categories:
   - database
   - nosql
   - embedded
+  - external
 Website: http://www.10gen.com
 Help-Topics:
   - "Building with MongoDB" : https://www.openshift.com/developers/mongodb
