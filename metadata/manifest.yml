@@ -43,8 +43,8 @@ Publishes:
   publish-nosql-db-connection-info:
     Type: "ENV:NET_TCP:nosqldb:connection-info"
 Scaling:
-  Min: 0
-  Max: 0
+  Min: 
+  Max: 
 Endpoints:
   - Private-IP-Name:   DB_HOST
     Private-Port-Name: DB_PORT
