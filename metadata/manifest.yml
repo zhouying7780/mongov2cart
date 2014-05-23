@@ -56,7 +56,7 @@ Endpoints:
 #Source-Url: https://github.com/xiuwang/mongov2cart/raw/master/mongov2cartsss.tar.gz
 #Source-Url: https://github.com/xiuwang/mongov2cart/raw/master/mongov2cart.tar
 #Source-Url: https://github.com/wsun1/mongov2cart/raw/master/mongov2cart.zip
-Source-Url: git://github.com/xiuwang/mongov2cart.git
+###Source-Url: git://github.com/xiuwang/mongov2cart.git
 #Source-Md5: ae220f2a0b616e93079560bc86d84fdc
-#Source-Url: file:///root/mongov2cart/
+Source-Url: file:///tmp/mongov2cart/
 #Source-Url: http://baidu.com
