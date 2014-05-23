@@ -7,7 +7,7 @@ Description: "MongoDB is a scalable, high-performance, open source NoSQL databas
 Version: '2.2'
 Versions: [2.2]
 Cartridge-Version: 0.2.0
-Cartridge-Vendor: openshift-qe 
+Cartridge-Vendor: openshiftqe 
 License: ASL 2.0
 Vendor: 10gen
 Categories:
