@@ -51,4 +51,4 @@ Endpoints:
     Private-Port-Name: DB_PORT
     Private-Port:      27017
     Public-Port-Name:  DB_PROXY_PORT
-Source-Url: https://github.com/openshift-qe/mongov2cart.git 
+Source-Url: file:///tmp/mongov2cart/
