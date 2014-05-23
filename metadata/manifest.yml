@@ -1,4 +1,4 @@
-Name: 5.9-mongodb
+Name: qe-mongodb
 Namespace: MONGODB
 Cartridge-Short-Name: MONGODB
 Architecture: noarch
